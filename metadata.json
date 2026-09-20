@@ -1,0 +1,6 @@
+{
+  "name": "Websites Audit & Remediation Portal",
+  "description": "Optimized, error-free authentic clone of Madhur Computers & Institute of Technology (MCIT) and Madhur Computers with all 404s cured.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
